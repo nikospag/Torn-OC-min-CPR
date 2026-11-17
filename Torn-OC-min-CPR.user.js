@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Torn OC Role Restrictions
+// @name         Torn OC min CPR
 // @namespace    https://xentac.github.io
 // @version      0.9
 // @description  Highlight role restrictions and best roles in OC 2.0 (modified copy of "Torn OC Role Evaluator"). Well paired with https://greasyfork.org/en/scripts/526834-oc-success-chance-2-0.

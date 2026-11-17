@@ -8,8 +8,8 @@
 // @grant        GM_xmlhttpRequest
 // @connect      raw.githubusercontent.com
 // @license      MIT
-// @downloadURL https://update.greasyfork.org/scripts/548447/Torn%20OC%20Role%20Restrictions.user.js
-// @updateURL https://update.greasyfork.org/scripts/548447/Torn%20OC%20Role%20Restrictions.meta.js
+// @downloadURL https://github.com/nikospag/Torn-OC-min-CPR/raw/refs/heads/main/Torn-OC-min-CPR.user.js
+// @updateURL https://github.com/nikospag/Torn-OC-min-CPR/raw/refs/heads/main/Torn-OC-min-CPR.user.js
 // ==/UserScript==
 
 (function () {

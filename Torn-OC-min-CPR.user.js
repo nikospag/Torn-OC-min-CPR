@@ -155,6 +155,13 @@
       { role: "Reviver", lower: 72 },
       { role: "CatBurglar", lower: 64 },
     ],
+    "GoneFission": [
+      { role: "Hijacker", lower: 71 },
+      { role: "Engineer", lower: 70 },
+      { role: "Pickpocket", lower: 70 },
+      { role: "Imitator", lower: 71 },
+      { role: "Bomber", lower: 70 },
+    ],
   };
 
   let crimeData = {};

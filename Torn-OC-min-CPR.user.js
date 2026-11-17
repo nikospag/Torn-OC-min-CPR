@@ -149,6 +149,12 @@
       { role: "Hacker", lower: 66 },
       { role: "Techie", lower: 70 },
     ],
+    "ManifestCruelty": [
+      { role: "Hacker", lower: 65 },
+      { role: "Interrogator", lower: 71 },
+      { role: "Reviver", lower: 72 },
+      { role: "CatBurglar", lower: 64 },
+    ],
   };
 
   let crimeData = {};

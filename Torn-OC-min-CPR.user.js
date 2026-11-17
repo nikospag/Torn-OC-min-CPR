@@ -162,6 +162,14 @@
       { role: "Imitator", lower: 71 },
       { role: "Bomber", lower: 70 },
     ],
+    "CraneReaction": [
+      { role: "Sniper", lower: 74 },
+      { role: "Lookout", lower: 71 },
+      { role: "Engineer", lower: 66 },
+      { role: "Bomber", lower: 71 },
+      { role: "Muscle #1", lower: 69 },
+      { role: "Muscle #2", lower: 66 },
+    ],
   };
 
   let crimeData = {};

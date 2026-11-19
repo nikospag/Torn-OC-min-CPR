@@ -215,6 +215,14 @@
       { role: "Negotiator", lower: 72 },
       { role: "Muscle", lower: 69 },
     ],
+    "Cleared for Takeoff": [
+      { role: "Imitator", lower: 71 },
+      { role: "Techie", lower: 68 },
+      { role: "Pickpocket", lower: 68 },
+      { role: "Lookout", lower: 64 },
+      { role: "Assassin", lower: 68 },
+      { role: "Interrogator", lower: 71 },
+    ],
   };
 
   let crimeData = {};

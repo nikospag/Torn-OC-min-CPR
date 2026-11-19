@@ -207,6 +207,14 @@
       { role: "Muscle #1", lower: 68 },
       { role: "Muscle #2", lower: 68 },
     ],
+    "Hostile Takeover": [
+      { role: "Hacker", lower: 67 },
+      { role: "Engineer", lower: 70 },
+      { role: "CatBurglar", lower: 70 },
+      { role: "Kidnapper", lower: 69 },
+      { role: "Negotiator", lower: 72 },
+      { role: "Muscle", lower: 69 },
+    ],
   };
 
   let crimeData = {};

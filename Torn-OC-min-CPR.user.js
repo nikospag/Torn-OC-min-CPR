@@ -223,6 +223,13 @@
       { role: "Assassin", lower: 68 },
       { role: "Interrogator", lower: 71 },
     ],
+    "Ship Happens": [
+      { role: "Engineer", lower: 64 },
+      { role: "Interrogator", lower: 73 },
+      { role: "Hustler", lower: 70 },
+      { role: "Spy", lower: 72 },
+      { role: "Assassin", lower: 64 },
+    ],
   };
 
   let crimeData = {};

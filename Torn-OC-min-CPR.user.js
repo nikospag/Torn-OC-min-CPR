@@ -176,6 +176,11 @@
       { role: "Robber #2", lower: 70 },
       { role: "Muscle", lower: 74 },
     ],
+    "First Aid and Abet": [
+      { role: "Picklock", lower: 66 },
+      { role: "Decoy", lower: 68 },
+      { role: "Pickpocket", lower: 72 },
+    ],
   };
 
   let crimeData = {};

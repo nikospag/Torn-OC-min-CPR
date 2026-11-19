@@ -181,6 +181,13 @@
       { role: "Decoy", lower: 68 },
       { role: "Pickpocket", lower: 72 },
     ],
+    "Window of Opportunity": [
+      { role: "Engineer", lower: 68 },
+      { role: "Looter #1", lower: 70 },
+      { role: "Looter #2", lower: 71 },
+      { role: "Muscle #1", lower: 71 },
+      { role: "Muscle #2", lower: 69 },
+    ],
     "Thou Shalt Not Steal": [
       { role: "Thief", lower: 65 },
       { role: "Pickpocket", lower: 68 },

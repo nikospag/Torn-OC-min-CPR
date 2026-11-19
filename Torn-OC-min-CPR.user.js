@@ -171,10 +171,10 @@
       { role: "Muscle #2", lower: 66 },
     ],
     "Plucking the Lotus Petal": [
-      { role: "Robber #1", lower: 65 },
-      { role: "Hustler", lower: 71 },
-      { role: "Robber #2", lower: 72 },
-      { role: "Muscle", lower: 64 },
+      { role: "Robber #1", lower: 64 },
+      { role: "Hustler", lower: 64 },
+      { role: "Robber #2", lower: 70 },
+      { role: "Muscle", lower: 74 },
     ],
   };
 

@@ -200,6 +200,13 @@
       { role: "Saboteur #2", lower: 64 },
       { role: "Engineer", lower: 67 },
     ],
+    "Lock Stock": [
+      { role: "Assassin", lower: 73 },
+      { role: "Smuggler", lower: 69 },
+      { role: "Hacker", lower: 68 },
+      { role: "Muscle #1", lower: 68 },
+      { role: "Muscle #2", lower: 68 },
+    ],
   };
 
   let crimeData = {};

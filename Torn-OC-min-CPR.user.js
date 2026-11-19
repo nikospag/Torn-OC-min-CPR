@@ -181,6 +181,11 @@
       { role: "Decoy", lower: 68 },
       { role: "Pickpocket", lower: 72 },
     ],
+    "Thou Shalt Not Steal": [
+      { role: "Thief", lower: 65 },
+      { role: "Pickpocket", lower: 68 },
+      { role: "Picklock", lower: 74 },
+    ],
   };
 
   let crimeData = {};

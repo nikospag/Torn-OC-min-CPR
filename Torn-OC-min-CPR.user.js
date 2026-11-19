@@ -193,6 +193,13 @@
       { role: "Pickpocket", lower: 68 },
       { role: "Picklock", lower: 74 },
     ],
+    "Dish It Out": [
+      { role: "Assassin", lower: 73 },
+      { role: "Muscle", lower: 70 },
+      { role: "Saboteur #1", lower: 68 },
+      { role: "Saboteur #2", lower: 64 },
+      { role: "Engineer", lower: 67 },
+    ],
   };
 
   let crimeData = {};

@@ -149,26 +149,32 @@
       { role: "Hacker", lower: 66 },
       { role: "Techie", lower: 70 },
     ],
-    "ManifestCruelty": [
+    "Manifest Cruelty": [
       { role: "Hacker", lower: 65 },
       { role: "Interrogator", lower: 71 },
       { role: "Reviver", lower: 72 },
       { role: "CatBurglar", lower: 64 },
     ],
-    "GoneFission": [
+    "Gone Fission": [
       { role: "Hijacker", lower: 71 },
       { role: "Engineer", lower: 70 },
       { role: "Pickpocket", lower: 70 },
       { role: "Imitator", lower: 71 },
       { role: "Bomber", lower: 70 },
     ],
-    "CraneReaction": [
+    "Crane Reaction": [
       { role: "Sniper", lower: 74 },
       { role: "Lookout", lower: 71 },
       { role: "Engineer", lower: 66 },
       { role: "Bomber", lower: 71 },
       { role: "Muscle #1", lower: 69 },
       { role: "Muscle #2", lower: 66 },
+    ],
+    "Plucking the Lotus Petal": [
+      { role: "Robber #1", lower: 65 },
+      { role: "Hustler", lower: 71 },
+      { role: "Robber #2", lower: 72 },
+      { role: "Muscle", lower: 64 },
     ],
   };
 
